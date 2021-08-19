@@ -3,7 +3,7 @@
 Token pack to be used with **Token movement 8bit style** module.
 
 <p align="center">
-  <img width="300" src="docs/demo.gif">
+  <img width="600" src="docs/demo.gif">
 </p>
 
 # How to
@@ -22,7 +22,7 @@ If you have a set of tokens that you have permission to share do so.
 ## Share
 1. Create the 4 tokens in webp/png format with transparency.
 2. Write the use permission to be added to the file: [images](images.md).
-3. Go to issues and share it [SHARE!](https://github.com/brunocalado/swademacros/issues)
+3. Go to issues and share it [SHARE!](https://github.com/brunocalado/8bit-token-pack/issues)
 
 # Changelog
 
