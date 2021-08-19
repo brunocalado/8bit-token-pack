@@ -23,7 +23,7 @@
   "socket": false,
   "protected": false,
   "coreTranslation": false,
-  "manifest": "https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/incompleteadventurer/zip/main",
-  "url": "https://github.com/brunocalado/incompleteadventurer"
+  "manifest": "https://raw.githubusercontent.com/brunocalado/8bit-token-pack/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/8bit-token-pack/zip/main",
+  "url": "https://github.com/brunocalado/8bit-token-pack"
 }
