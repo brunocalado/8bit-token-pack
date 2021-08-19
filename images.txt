@@ -4,3 +4,5 @@ https://www.deviantart.com/pianodream/art/RPG-MAKER-XP-Sprite-Angel-England-2931
 # http://untamed.wild-refuge.net/rmxpresources.php?characters
 ironman
 blackmage_f
+astromechdroid
+bahamut
