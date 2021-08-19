@@ -3,7 +3,7 @@
 Token pack to be used with **Token movement 8bit style** module.
 
 <p align="center">
-  <img width="300" src="docs/demo.mp4">
+  <img width="300" src="docs/demo.gif">
 </p>
 
 # How to
