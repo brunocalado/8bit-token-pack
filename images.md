@@ -5,6 +5,7 @@ blackmage_f
 astromechdroid
 bahamut
 barret
+wintersoldier
 
 # deviantart
 Harvest Moon MC Sprite
