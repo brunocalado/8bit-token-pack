@@ -7,8 +7,10 @@ Token pack to be used with **Token movement 8bit style** module.
 </p>
 
 # Vídeo
- Instruções / Portuguese Instructions (english subtitles)
+Instruções / Portuguese Instructions (with horrible english subtitles)
+<p align="center">
 [![Instruções/Instructions](docs/video.jpg)](https://youtu.be/w5ZIcxhftmE)
+</p>
 
 # How to
 You just need to install. You don't need to activate.
