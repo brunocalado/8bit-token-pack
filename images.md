@@ -6,6 +6,9 @@ astromechdroid
 bahamut
 barret
 wintersoldier
+11sprite
+08sprite
+deadpool
 
 # deviantart
 Angel England
