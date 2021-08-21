@@ -6,8 +6,9 @@ Token pack to be used with **Token movement 8bit style** module.
   <img width="600" src="docs/demo.gif">
 </p>
 
-# Vídeo com Instruções / Portuguese Instructions (english subtitles)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5ZIcxhftmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Vídeo
+ Instruções / Portuguese Instructions (english subtitles)
+[![Instruções/Instructions](docs/video.jpg)](https://youtu.be/w5ZIcxhftmE)
 
 # How to
 You just need to install. You don't need to activate.
