@@ -17,6 +17,10 @@ Search:
 ```
 modules/8bit-token-pack/chars/
 ```
+for animated search:
+```
+modules/8bit-token-pack/a-chars/
+```
 
 You will find a set of images ready to use with the module.
 

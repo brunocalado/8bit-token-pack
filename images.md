@@ -16,3 +16,8 @@ Link: https://www.deviantart.com/pianodream/art/RPG-MAKER-XP-Sprite-Angel-Englan
 
 rpg_maker___jester_sprites__ds___by_amysaurus121_d8svtju
 Link: https://www.deviantart.com/amysaurus121/art/RPG-Maker-Jester-Sprites-DS-532243290
+
+Universal-LPC-Spritesheet-Character-Generator
+Link: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
+man-brown-hood_down
+man-green-armor
