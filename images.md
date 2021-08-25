@@ -21,3 +21,4 @@ Universal-LPC-Spritesheet-Character-Generator
 Link: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
 man-brown-hood_down
 man-green-armor
+werewolf
