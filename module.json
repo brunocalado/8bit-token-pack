@@ -1,25 +1,30 @@
 {
-  "name": "8bit-token-pack",
+  "id": "8bit-token-pack",
   "title": "8bit - Token Pack",
-  "description": "",
-  "authors": [],
+  "description": "This is a token pack for the module 8bit-movement.",
+  "authors": [{
+    "name": "Mestre Digital",
+    "url": "https://www.youtube.com/mestredigital"
+  }],
   "flags": {},
-  "version": "0.0.212",
-  "minimumCoreVersion": "0.8.8",
-  "compatibleCoreVersion": "9",
+  "version": "0.1.100",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10"
+  },
   "scripts": [],
   "esmodules": [],
   "styles": [],
   "languages": [],
   "packs": [],
   "system": [],
-  "dependencies": [
-    {
+  "relationships": {
+    "requires": [{
+      "id": "8bit-movement",
       "type": "module",
-      "name": "8bit-movement",
       "manifest": "https://gitlab.com/Freeze020/8bit-movement/-/raw/master/module.json"
-    }
-  ],
+    }]
+  },  
   "socket": false,
   "protected": false,
   "coreTranslation": false,
