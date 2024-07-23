@@ -24,6 +24,13 @@ modules/8bit-token-pack/a-chars/
 
 You will find a set of images ready to use with the module.
 
+# I Want More Art
+http://untamed.wild-refuge.net/rmxpresources.php?characters 
+https://opengameart.org/ 
+https://www.deviantart.com/ 
+https://br.pinterest.com/ 
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/ 
+
 # Community
 If you have a set of tokens that you have permission to share do so.
 
