@@ -10,11 +10,11 @@
   
   "flags": {},
   
-  "version": "0.1.101",
+  "version": "0.1.102",
   
   "compatibility": {
     "minimum": 10,
-    "verified": "11"
+    "verified": "12"
   },
   
   "scripts": [],
