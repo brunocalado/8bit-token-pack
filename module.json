@@ -10,7 +10,7 @@
   
   "flags": {},
   
-  "version": "0.1.102",
+  "version": "0.1.103",
   
   "compatibility": {
     "minimum": 10,
@@ -22,13 +22,12 @@
   "styles": [],
   "languages": [],
   "packs": [],
-  "system": [],
   
   "relationships": {
     "requires": [{
       "id": "8bit-movement",
       "type": "module",
-      "manifest": "https://gitlab.com/Freeze020/8bit-movement/-/raw/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/muhahahahe/8bit-movement/main/src/module.json"
     }]
   },  
   "socket": false,
